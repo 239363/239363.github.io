@@ -351,7 +351,7 @@ template {
 #article-container hr:before,
 .search-dialog hr:before {
   position: absolute;
-  top: -10px;
+  top: subTitle;
   left: 5%;
   z-index: 1;
   color: var(--hr-before-color);
