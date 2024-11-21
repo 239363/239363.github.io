@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-09-20T04:48:14.647Z</updated>
+  <updated>2024-10-22T06:35:05.289Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,16 +21,15 @@
     <link href="http://example.com/2024/10/10/hello-world/"/>
     <id>http://example.com/2024/10/10/hello-world/</id>
     <published>2024-10-10T02:10:14.891Z</published>
-    <updated>2024-09-20T04:48:14.647Z</updated>
+    <updated>2024-10-22T06:35:05.289Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>title: 遇事不决</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<hr><p>title: 始元<br>    漆黑的夜色中夹杂着蒙蒙细雨，闪电划过天空，短暂照亮了森林中的场景，一支巡逻小队正紧张地向前缓缓移动，每个人的眼睛中都透露着警惕与不安，端着枪的手都忍不住微微颤抖，红褐色护目镜上倒映着眼前的场景。另一只小队正横七竖八地躺在泥泞的地上，触目惊心的伤口肆意的暴露在外，红色的血水随着雨水向低洼处流去，树叶上的雨滴积到了饱和，种种滴在了士兵端起的枪上，水花四溅开来。接到求援后，他们立马赶来过来，时间前后不超过三分钟，期间还听到激烈的枪声，赶过来后一切都迟了，一些树上还留有清晰的弹孔。<br>    “074号检查一下还有没有幸存者，其余人警戒”装备与其他队员略微不同的士兵对说到，其中一人闻言收起武器，背在了身后，快步走过去挨个检查地上的尸体，刚才离得远，加上视线昏暗，只凭借枪口的照明器并不能完全看清真实的情况，几人当中致命伤口多数为刀伤，三人贯穿了心脏，一人被割喉，奇怪的是还有一人身中数枪，其余人都是被人用刀杀死，这位却是被枪击中心脏身亡，正当074觉得不对劲的时候，</p>]]></content>
     
     
       
       
     <summary type="html">&lt;hr&gt;
-&lt;p&gt;title: 遇事不决&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Creat</summary>
+&lt;p&gt;title: 始元&lt;br&gt;    漆黑的夜色中夹杂着蒙蒙细雨，闪电划过天空，短暂照亮了森林中的场景，一支巡逻小队正紧张地向前缓缓移动，每个人的眼睛中都透露着警惕与不安，端着枪的手都忍不住微微颤抖，红褐色护目镜上倒映着眼前的场景。另一只小队正横七竖八地躺在泥泞的地上</summary>
       
     
     
